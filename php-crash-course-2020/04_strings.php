@@ -24,7 +24,7 @@
     echo "6 - " . strrev($string) . '<br>'; //Reverses word
     echo "7 - " . strtoupper($string) . '<br>'; //Converts to uppercase
     echo "8 - " . strtolower($string) . '<br>'; //Converts to lowercase
-    echo "9 - " . ucfirst('hello') . '<br>';
+    echo "9 - " . ucfirst('hello') . '<br>'; //testing
     echo "10 - " . lcfirst('HELLO') . '<br>';
     echo "11 - " . ucwords('hello world') . '<br>';
     echo "12 - " . strpos($string, 'world') . '<br>';
